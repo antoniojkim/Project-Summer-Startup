@@ -12,8 +12,9 @@ Firefighting Drone Detailed Idea
 * Essentially, the drone is dispatched in a closed location, and identifies key features for firefighter.
 * Locates safest path to any victims
 * Transmits data in real time so algorithm can adjust for any changes
-* Drone has to be able to survive fire
-* Drone has to be able to survive falling debris
+* Requirements:
+  * Drone has to be able to survive fire
+  * Drone has to be able to survive falling debris
 * Components:
   * Raspberry pi on drone
   * LIDAR on drone
