@@ -38,14 +38,14 @@ Algorithms/Designs
 * Converting LIDAR data into useful input
 * Calculating saftest path/shortest path (depending on application)
 * Should be very efficient
- * one way to achieve this is to send data to a nearby server and have it calculate whatever
+  * one way to achieve this is to send data to a nearby server and have it calculate whatever
 * Drone should be as light and aerodynamically efficient as possible 
 * In case of large areas of data collection, we dispatch multiple drones:
- * Area first gets split up into chunks
- * Each drone is dispatched to a different area
- * Each drone can either do a different task, or the same one, and then data is all sent to the nearby server
+  * Area first gets split up into chunks
+  * Each drone is dispatched to a different area
+  * Each drone can either do a different task, or the same one, and then data is all sent to the nearby server
 * Once data is collected and sent to server, it should be forgotten by the drone, and just updated in real time
- * Ideally in C to destroy memory
+  * Ideally in C to destroy memory
  
 
 
