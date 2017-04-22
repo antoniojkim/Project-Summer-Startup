@@ -2,6 +2,6 @@
 
 Ideas
 ==================
-i) Firefighting Drone
-ii) Autonomous Vehicles
-iii) Image Generation
+1) Firefighting Drone
+2) Autonomous Vehicles
+3) Image Generation
