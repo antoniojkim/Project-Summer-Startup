@@ -21,3 +21,6 @@ Firefighting Drone Detailed Idea
   * If possible, sonar detectors, like small arduino ones, that are used for drone boundar detection
   * Gyroscope
   * Altimeter
+
+Image Generation Detailed Idea
+------------------
