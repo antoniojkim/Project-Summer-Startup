@@ -25,12 +25,6 @@ Firefighting Drone Detailed Idea
   * Gyroscope
   * Altimeter
 
-Image Generation
---------------
-* Train a neural network on a set of images, distinct, but sharing some aspect, an example would be a set of different faces
-* Then have it create that that object that it trained, so in the case of a face, it would draw out a face
-* Should also be able to create elements of the object, so in case of a face, it could draw just the eye 
-
 Algorithms/Designs
 ---------------
 * So we need one for obstacle detection
@@ -45,9 +39,13 @@ Algorithms/Designs
   * Each drone is dispatched to a different area
   * Each drone can either do a different task, or the same one, and then data is all sent to the nearby server
 * Once data is collected and sent to server, it should be forgotten by the drone, and just updated in real time
-  * Ideally in C to destroy memory
- 
+  * Ideally in C/C++ to destroy memory
 
+Image Generation
+--------------
+* Train a neural network on a set of images, distinct, but sharing some aspect, an example would be a set of different faces
+* Then have it create that that object that it trained, so in the case of a face, it would draw out a face
+* Should also be able to create elements of the object, so in case of a face, it could draw just the eye 
 
 
 Resources for machine learning
