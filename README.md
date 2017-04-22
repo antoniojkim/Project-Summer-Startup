@@ -29,8 +29,10 @@ Image Generation
 --------------
 * Train a neural network on a set of images, distinct, but sharing some aspect
   * e.g. a set of different faces
-* Then have it create that that object that it trained, so in the case of a face, it would draw out a face
-* Should also be able to create elements of the object, so in case of a face, it could draw just the eye 
+* Then have it create that that object that it trained.
+  * e.g. in the case of a face, it would draw out a face
+* Should also be able to create elements of the object.
+  * e.g. in case of a face, it could draw just the eye
 
 Resources for machine learning
 -------------------
