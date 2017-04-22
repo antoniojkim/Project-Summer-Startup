@@ -17,6 +17,3 @@ Firefighting Drone Detailed Idea
 * Raspberry pi on drone
 * LIDAR on drone
 * If possible, sonar detectors, like small arduino ones, that are used for drone boundar detection
-
-test<return>
-test
