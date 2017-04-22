@@ -10,6 +10,9 @@ Summary of Ideas
 Firefighting Drone Detailed Idea
 ------------------
 * Essentially, the drone is dispatched in a closed location, and identifies key features for firefighter.
+  * Detects building's structural weaknesses
+  * Locations of victims
+  * Potential Hazards
 * Locates safest path to any victims
 * Transmits data in real time so algorithm can adjust for any changes
 * Requirements:
