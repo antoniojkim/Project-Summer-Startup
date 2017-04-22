@@ -14,6 +14,9 @@ Firefighting Drone Detailed Idea
 * Transmits data in real time so algorithm can adjust for any changes
 * Drone has to be able to survive fire
 * Drone has to be able to survive falling debris
-* Raspberry pi on drone
-* LIDAR on drone
-* If possible, sonar detectors, like small arduino ones, that are used for drone boundar detection
+* Components:
+ * Raspberry pi on drone
+ * LIDAR on drone
+ * If possible, sonar detectors, like small arduino ones, that are used for drone boundar detection
+ * Gyroscope
+ * Altimeter
