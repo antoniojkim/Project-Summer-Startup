@@ -7,6 +7,6 @@ Ideas
 
 Resources for machine learning
 ===================
-* http://www.projectforrest.com/path/83
-* http://www.deeplearningbook.org/
-* http://neuralnetworksanddeeplearning.com/chap1.html
+* [Project Forrest](http://www.projectforrest.com/path/83)
+* [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
