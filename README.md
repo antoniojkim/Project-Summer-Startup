@@ -1,7 +1,7 @@
-# Project-Summer-Startup
+# Project Summer Startup
 
-Ideas:
-===================
+Ideas
+-------------------
 [Document of Ideas](https://docs.google.com/document/d/1w1syyt7Mo19q6PWwSv0pYUmBF4MPqxRJeB31a-aM_ls/edit?usp=sharing)
 
 
