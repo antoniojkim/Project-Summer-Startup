@@ -58,7 +58,7 @@ public class NeuralNetwork{
         double[] zipped = new double[w.length];
         for (int i = 0; i<w.length; i++){
             for (int j = 0; j<z.length; j++){
-                zipped[i] = w[i]*z[j]+b[i];
+                zipped[i] += w[i]*z[j]+b[i];
             }
         }
         return zipped;
