@@ -2,8 +2,8 @@
 
 Ideas
 ===================
-[Document of Ideas](https://docs.google.com/document/d/1w1syyt7Mo19q6PWwSv0pYUmBF4MPqxRJeB31a-aM_ls/edit?usp=sharing)
-[Project Folder](https://drive.google.com/drive/folders/0B3RzrG9m111TSnRvVHZwSHg5TlE)
+* [Document of Ideas](https://docs.google.com/document/d/1w1syyt7Mo19q6PWwSv0pYUmBF4MPqxRJeB31a-aM_ls/edit?usp=sharing)
+* [Project Folder](https://drive.google.com/drive/folders/0B3RzrG9m111TSnRvVHZwSHg5TlE)
 
 
 Resources for machine learning
