@@ -11,3 +11,4 @@ Resources for machine learning
 * [Project Forrest](http://www.projectforrest.com/path/83)
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Convolutional Neural Networks](http://cs231n.github.io/)
