@@ -129,14 +129,14 @@ class SimpleNN(object):
         :param training_input:  the training data that will be fed forward through the network
         :param expected_ouput:  the output that the input training data is expected to produce
         :param epochs:          the number of times the training sequence is run
-        :param mini_batch_size: the size of the mini-batch
+        :param interval:        how often the loss should be printed
         :param eta:             the learning rate
         """
         if interval == 0:
             for i in range(epochs):
                 self.gradient_descent(training_input, expected_output, eta)
         else:
-            for i in range(epochs):
+            for i in range(epochs+1):
                 loss = self.gradient_descent(training_input, expected_output, eta)
                 if i%interval == 0:
                     print("Epoch", i, ":   Loss: ", loss)
@@ -230,6 +230,6 @@ nn = SimpleNN([3, 5, 7, 5, 1])
 
 print(nn.get(training_input))
 
-nn.train(training_input, expected_output, 2001, 200, 0.5)
+nn.train(training_input, expected_output, 2000, 200, 0.5)
 
 print(nn.get(training_input))
