@@ -1,6 +1,6 @@
 import numpy as np
 
-class SimpleNN(object):
+class NeuralNetwork(object):
 
     def __init__(self, sizes):
         if isinstance(sizes, list):
@@ -226,7 +226,7 @@ class SimpleNN(object):
 training_input = np.array([[0, 0, 1], [0, 1, 1], [1, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1], [0, 0, 0]])
 expected_output = np.array([[0, 1, 1, 1, 1, 0, 0]]).T
 
-nn = SimpleNN([3, 5, 7, 5, 1])
+nn = NeuralNetwork([3, 5, 7, 5, 1])
 
 print(nn.get(training_input))
 
